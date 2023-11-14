@@ -79,5 +79,3 @@ Create various JavaScript functions to ​perform these operations.
 
 ![](./Bill-details.png)
 
-
-**NOTE: The solution for this exercise should be provided in `veggie-pizza-solution.js` file.**
